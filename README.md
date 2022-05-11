@@ -1,5 +1,5 @@
-# DataStructure and Algorithm with PYTHON #
-## will be solve leetcode problems and go through all the topic of data structure and algorithms. ##
+# DataStructure and Algorithm in PYTHON #
+## will be solved leetcode problems and go through all the topic of data structure and algorithms. ##
 ### List ... ###
 - Algorithms:
   - [x] Dynamic Programming 
